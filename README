@@ -1,0 +1,7 @@
+R-Car PCI Interface Driver Interface for application in user space
+=====
+
+Dependencies:
+-------------
+
+*rpci_drv

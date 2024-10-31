@@ -1,0 +1,7 @@
+*.o
+
+librpci.so
+librpci.so.*
+
+rcar_pci_ep
+rcar_pci_host
